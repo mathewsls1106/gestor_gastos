@@ -1,0 +1,2 @@
+class NegativeQuantityError(Exception):
+    pass
